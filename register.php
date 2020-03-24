@@ -100,7 +100,7 @@
      }
    </script>
    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwu7KKXLKCDT73mZsYUEge83Hzz12KrWM&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=xxx&callback=initMap">
    </script>
    <input id = "button_reg" type="submit" value="SIGN UP"  />
    <script type="text/javascript">
