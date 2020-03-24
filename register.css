@@ -1,0 +1,215 @@
+body
+{
+	background-image:url(resources/background.jpg);
+	background-size:100% 100%;
+	background-attachment:fixed;
+	margin-left:0;
+}
+
+#email_area
+{
+	width:35%;
+	float:left;
+	margin-left:10%;
+}
+
+#name_area
+{
+	width:35%;
+	float:left;
+	margin-left:10%;
+}
+
+#password_area
+{
+	width:80%;
+	margin-left:10%;
+}
+
+#map
+{
+	height:400px;
+	width:80%;
+	margin-left:10%;
+	margin-top:10px;
+}
+
+#title
+{
+	color:#ffffff;
+	font-size:1.2em;
+	font-family:Verdana, Consolas, Arial;
+	text-align:center;
+	margin-bottom:10px;
+	margin-top:0;
+}
+
+#register
+{
+	color:#ffffff;
+	font-size:3em;
+	font-family:"Century Gothic", Consolas, Arial;
+	text-align:center;
+	margin-bottom:30px;
+}
+
+#subtitle
+{
+	color:#ffffff;
+	font-size:1.6em;
+	font-family:Arial, Consolas, Arial;
+	text-align:center;
+	margin-top:25px;
+}
+
+#title_area
+{
+	background:rgba(120,120,120,0.7);
+	width:100%;
+	height:5%;
+	position:fixed;
+	top:0;
+}
+
+.input_blank
+{
+	text-align:center;
+	font-size:1.2em;
+	height:1.6em;
+	width:100%;
+	border:0;
+	border-radius:10px;
+	margin-bottom:5px;
+}
+
+.description
+{
+	color:#ffffff;
+	font-size:1.1em;
+	font-family:Arial, Consolas, Arial;
+	text-align:left;
+	margin-bottom:5px;
+	margin-top:0;
+}
+
+#button_reg
+{
+	text-align:center;
+	color:#ffffff;
+	background-color:rgb(30,125,220);
+	font-size:1.1em;
+	height:1.6em;
+	width:80%;
+	margin-left:10%;
+	border:0;
+	border-radius:12px;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.register_page
+{
+	width:70%;
+	background:rgba(180,180,180,0.3);
+	margin-top:60px;
+	margin-left:15%;
+	padding-top:20px;
+}
+
+
+/*
+h1, h3, p
+{
+	color:#ffffff;
+	font-family:"Trebuchet MS", Consolas, Arial;
+	text-align:center;
+}
+h1 {font-size:2.5em;}
+h3 {font-size:1.5em;}
+#submit_button
+{
+	text-align:center;
+	color:#ffffff;
+	background-color:rgb(200,200,200);
+	font-size:1em;
+	height:1.8em;
+	width:15%;
+	border:0;
+	border-radius:4px;
+}
+.rtn_btn
+{
+	font-size:1.2em;
+	height:1.5em;
+	width:20%;
+	margin-left:40%;
+	border:0;
+	border-radius:4px;
+	margin-bottom:25px;
+}
+input[type = "text"]
+{
+    text-align:center;
+    font-size:1.1em;
+    height:1.6em;
+    border-radius:4px;
+    border:1px;
+    color:rgb(40,40,40);
+    width:83%;
+}
+.input_area
+{
+	margin-top:40px;
+	border-width:2px;
+	border-color:#ffffff;
+	border-radius:4px;
+	border-style:solid;
+	padding:4px;
+	width:40%;
+	margin-left:30%;
+	margin-right:30%;
+}
+.front_page
+{
+	margin-top:12%;
+}
+table
+{
+	margin:0 auto;
+	border:0;
+	border-collapse:collapse;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	text-align:center;
+}
+th
+{
+	background-color:rgba(30,30,30,0.8);
+	padding-top:6px;
+	padding-bottom:6px;
+	border:0;
+}
+tr:nth-child(odd)
+{
+	background-color:rgba(80,80,80,0.8);
+}
+tr:nth-child(even)
+{
+	background-color:rgba(40,40,40,0.8);
+}
+td
+{
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:10px;
+	padding-right:10px;
+	border:0;
+}
+*/
+	
+	
+	
+	
+	
+	
+	
